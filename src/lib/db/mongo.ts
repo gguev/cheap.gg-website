@@ -1,7 +1,7 @@
 import { MongoClient } from 'mongodb';
 
 //const uri = import.meta.env.MONGO_URI
-const uri = 'mongodb://mongo:2v7u1uqHq2bubsfPhdbQ@containers-us-west-29.railway.app:6098'
+const uri = // ligma
 
 let client
 let clientPromise
